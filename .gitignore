@@ -1,7 +1,6 @@
 # i18n translation files make by script using `make build`
 public/locales/**/*
 src/i18n/declaration.ts
-.env
 .envrc
 node_modules/
 build/
@@ -46,3 +45,4 @@ build-fresh/
 # Per-arch runtime downloads for macOS universal builds (ELECTRON_ARCH=universal)
 /resources/bin-*/
 /resources/node-*/
+config.bat
